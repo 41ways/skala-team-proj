@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mkdir -p /Users/muna/Documents/skala-python2/data)",
-      "Bash(curl -sL --max-time 60 -o /Users/muna/Documents/skala-python2/data/adult.data \"https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data\")",
-      "Bash(python3 *)"
-    ]
-  }
-}
